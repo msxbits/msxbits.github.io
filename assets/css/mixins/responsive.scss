@@ -1,0 +1,49 @@
+@media screen and (max-width: 600px) {
+
+    html, body {
+        overflow-x: hidden;
+      }
+    
+    body {
+        position: relative
+    }
+
+    .navbar img {
+        height: 40px;
+    }
+
+    input#search-box {
+        width: 200px;
+    }
+
+    .row {
+        display: block;
+    }
+
+    #document-content {
+        padding: 0 5px;
+    }
+
+    #document-content #document {
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 601px) {
+
+    .box-links {
+        width: 25%;
+    }
+
+    .box {
+        width: 33%;
+    }
+}
+
+@media screen and (min-width: 601px) and (max-width: 840px) {
+    .msxvr-link-logo .image.is-64x64 {
+        display: none;
+    }
+}
+
+

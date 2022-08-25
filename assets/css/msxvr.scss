@@ -1,0 +1,277 @@
+---
+---
+
+@import "mixins/navigation";
+
+body {
+    background-color: #f2f2f2;
+    color: #24292f;
+    font-family: Segoe UI,SegoeUI,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    margin: 0;
+}
+
+#header h1, .box h1 {
+    border: 0;
+    padding: 0;
+}
+
+h1 {
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+}
+
+#header {
+    background-color: rgb(43, 76, 226);
+    border-bottom: 1px solid rgb(17, 31, 92);
+    border-top: 1px solid rgb(17, 31, 92);
+    color:rgb(255, 255, 255);
+    padding: 20px;
+    margin: 0;
+    text-align: center;
+}
+
+#search-container > input {
+    min-width: 250px;
+    padding: 10px;
+}
+
+#search-results li {
+    list-style: none;
+}
+
+section {
+    margin: 0 auto;
+    max-width: 960px;
+}
+
+#manuales {
+    margin: 20px;
+}
+
+.section {
+    margin: 20px 0 40px;;
+}
+
+.section .section-header {
+    background-color: rgb(210, 210, 210);
+    border: 1px solid rgb(190, 190, 190);
+    border-radius: 3px;
+    padding: 1px 10px;
+}
+
+.section-header h2 {
+    margin: 5px 0;
+}
+
+#document-content {
+    display: flex;
+    margin: 0 auto;
+    max-width: 1000px;
+}
+
+#document-content #document {
+    max-width: 980px;
+}
+
+.row {
+    display: flex;
+}
+
+.box-links {
+    background-color: rgb(230, 230, 230);
+    border: 1px solid rgb(210, 210, 210);;
+    border-radius: 0.5rem !important;
+    box-shadow: 0 1.6px 3.6px 0 var(--theme-box-shadow-medium),0 .3px .9px 0 var(--theme-box-shadow-light);
+    display: block;
+    margin: 10px;
+    padding: 1rem 0 1rem 0;
+}
+
+.box {
+    display: block;
+    padding: 0 1.25rem;
+}
+
+.box ul {
+    list-style: none;
+    padding: 0;
+}
+
+a {
+    color: rgb(43, 76, 226);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:visited {
+    color: rgb(43, 76, 226);
+}
+
+code {
+    background-color: black;
+    color:rgb(255, 255, 255);
+    display: block;
+    margin: 20px;
+    padding: 5px;
+}
+
+table {
+    width: 100%;
+}
+
+.footer-big {
+    color: #999;
+    padding: 30px 0 18px;
+    text-align: center;
+}
+
+.footer-big .footer-menu li {
+    display: inline-block;
+}
+
+.footer-big ul li a {
+    display: inline-block;
+    position: relative;
+    padding: 5px 0;
+    border-radius: 3px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+footer.footer.footer-black a {
+    opacity: .86;
+    color: rgb(85, 85, 85);
+}
+
+.footer-big .footer-menu li a {
+    padding: 15px;
+}
+
+.msxvr-link {
+    display: flex;
+}
+
+.msxvr-link-logo {
+    margin: 0 0.6rem;
+}
+
+.msxvr-link-logo .image.is-64x64 {
+    height: 64px;
+    margin: 0;
+    width: 64px;
+}
+
+.msxvr-link-logo .image img, .image svg {
+    display: block;
+    height: auto;
+    max-height: 100%;
+    width: 100%;
+}
+
+.msxvr-link-description a {
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+.msxvr-link-description p {
+    margin: 0;
+}
+
+div#search-msxvr {
+    display: flex;
+}
+
+div#search-container {
+    margin: 0 auto;
+}
+
+input#search-box {
+    border: 1px solid #CCC;
+    -webkit-box-shadow: 0 1px 1px #ddd inset, 0 1px 0 #fff;
+    -moz-box-shadow: 0 1px 1px #ddd inset, 0 1px 0 #FFF;
+    box-shadow: 0 1px 1px #ddd inset, 0 1px 0 #fff;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    float: left;
+    font: 14px;
+    height: 16px;
+    padding: 10px;
+    margin: 0 5px;
+    width: 320px;
+}
+
+#search-container input[type="submit" i] {
+    background-color: rgb(210, 210, 210);
+    border: 1px solid black;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    cursor: pointer;
+    height: 40px;
+    float: right;
+    font: 15px Arial, Helvetica;
+    padding: 0;
+    text-transform: uppercase;
+    width: 100px;
+}
+
+div#search-results-total {
+    border-bottom: 1px solid #ccc;
+    margin: 20px 0;
+}
+
+#search-results article {
+    margin-bottom: 30px;
+}
+
+#search-results h3 {
+    margin: 0;
+}
+
+#search-results p {
+    margin: 5px 0;
+}
+
+article {
+    margin: 0 0 20px;
+}
+
+a.article {
+    color: black;
+    margin: 5px 0;
+    text-decoration: none;
+}
+
+a.article:hover {
+    color: black;
+    text-decoration: none;
+}
+
+a.article:visited {
+    color: black;
+}
+
+a:hover article h3 {
+    text-decoration: underline;
+}
+
+.article h3 {
+    color: rgb(43, 76, 226);
+    margin: 0;
+}
+
+.article p {
+    margin: 5px 0;
+}
+
+#document #formats {
+    text-align: right;
+    margin: 10px 0;
+}
+
+@import "mixins/responsive";

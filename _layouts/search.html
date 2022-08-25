@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="initial-scale=1">
+    <link rel="icon" href="https://msxvr.com/wp-content/uploads/2019/02/cropped-msx_vritualizer_squared_logo_1024-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://msxvr.com/wp-content/uploads/2019/02/cropped-msx_vritualizer_squared_logo_1024-180x180.png" />
+    <link rel="stylesheet" href="/assets/css/msxvr.css">
+  </head>
+  <body>
+    {% include navigation.html html=content %}
+    <div id="header">
+      <h1>Documentación MSXRV</h1>
+      <div id="search-msxvr">
+        <div id="search-container">
+          <form action="search" method="get">
+            <input type="text" id="search-box" name="query" autofocus="autofocus">
+            <input type="submit" value="Buscar">
+          </form>
+        </div>
+      </div>
+    </div>
+    <section id="search-results">
+    </section>
+    {% include footer.html html=content %}
+    {{ content }}
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="/assets/js/search.js"></script>  
+  </body>
+</html>
