@@ -11,7 +11,7 @@
         </div>
         <div class="msxvr-link-description">
           <a href="https://github.com/konamiman/msx">Konamiman's Software</a>
-          <p>This is a compilation of all the MSX software that I have been developing since the mid-90s.</p>
+          <p>This is a compilation of MSX software developed since the mid-90s.</p>
         </div>
       </div>
     </div>
@@ -204,34 +204,6 @@
 
 <div class="section">
   <div class="section-header">
-   <h2>Otros recursos</h2>
-  </div>
-  <div class="row">
-    <div class="box">
-      <h1>Programación de videojuegos</h1>
-      <ul>
-          <li>
-            <a class="article" href="https://www.youtube.com/playlist?list=PL_xRyXins848jkwC9Coy7B4N5XTOnQZzz">
-              <article>
-                <h3>Intro to Game Programming (C++)</h3>
-                <p>Curso de programación de videojuegos en YouTube por la Memorial University</p>
-              </article>
-            </a>
-          </li>
-          <li>
-            <a class="article" href="https://profesorretroman.com">
-              <article>
-                <h3>Programación de Videojuegos en Ensamblador Z80</h3>
-                <p>Clases impartidas en la Universidad de Alicante, así como los retos y desafíos propuestos.</p>
-              </article>
-            </a>
-          </li>
-      </ul>
-  </div>
-</div>
-
-<div class="section">
-  <div class="section-header">
     <h2>Documentación MSXVR</h2>
   </div>
   <div class="row">
@@ -293,5 +265,33 @@
           </li> 
       </ul>
     </div>
+  </div>
+</div>
+
+<div class="section">
+  <div class="section-header">
+   <h2>Otros recursos</h2>
+  </div>
+  <div class="row">
+    <div class="box">
+      <h1>Programación de videojuegos</h1>
+      <ul>
+          <li>
+            <a class="article" href="https://www.youtube.com/playlist?list=PL_xRyXins848jkwC9Coy7B4N5XTOnQZzz">
+              <article>
+                <h3>Intro to Game Programming (C++)</h3>
+                <p>Curso de programación de videojuegos en YouTube por la Memorial University</p>
+              </article>
+            </a>
+          </li>
+          <li>
+            <a class="article" href="https://profesorretroman.com">
+              <article>
+                <h3>Programación de Videojuegos en Ensamblador Z80</h3>
+                <p>Clases impartidas en la Universidad de Alicante, así como los retos y desafíos propuestos.</p>
+              </article>
+            </a>
+          </li>
+      </ul>
   </div>
 </div>
