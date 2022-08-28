@@ -152,11 +152,12 @@
 
 <div class="section">
   <div class="section-header">
-   <h2>Libros sobre el MSX</h2>
+   <h2>Libros y revistas sobre el MSX</h2>
   </div>
   <div>
     <div class="row">
       <div class="box">
+        <h1>Libros</h1>
         <ul>
             <li>
               <a class="article" href="https://books.google.com/books/about/MSX_Made_Simple.html?id=Qo-GDAAAQBAJ">
@@ -199,6 +200,19 @@
             </li>        
         </ul>
     </div>  
+    <div class="box">
+      <h1>Revistas</h1>
+        <ul>
+            <li>
+              <a class="article" href="https://archive.org/search.php?query=msx+extra">
+                <article>
+                  <h3>MSX Extra</h3>
+                  <p> Revista mensual para usuarios de ordenadores MSX, publicada en España entre enero 1985 y julio 1988</p>
+                </article>
+              </a>
+            </li>
+        </ul>
+    </div>
   </div>
 </div>  
 
