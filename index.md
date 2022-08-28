@@ -10,7 +10,7 @@
           </figure>
         </div>
         <div class="msxvr-link-description">
-          <a href="https://github.com/konamiman/msx">Konamiman's MSX software repository</a>
+          <a href="https://github.com/konamiman/msx">Konamiman's Software</a>
           <p>This is a compilation of all the MSX software that I have been developing since the mid-90s.</p>
         </div>
       </div>
@@ -32,7 +32,7 @@
 </div>
 
 <div class="section">
-  <div class="section-header">
+  <div class="section-header">  
    <h2>Recursos MSX</h2>
   </div>
   <div class="row">
@@ -148,54 +148,59 @@
         </ul>
     </div>
   </div>
-  <hr/>
-  <div class="row">
-    <div class="box">
-      <h1>Libros sobre el MSX</h1>
-      <ul>
-          <li>
-            <a class="article" href="https://books.google.com/books/about/MSX_Made_Simple.html?id=Qo-GDAAAQBAJ">
-              <article>
-                <h3>MSX Made Simple</h3>
-                <p>Aprende MSX Basic y breve introducción al codigo maquina.</p>
-              </article>
-            </a>
-          </li>
-          <li>
-            <a class="article" href="assets/documents//practical_msx_machine_code_programming_steve_webb.pdf">
-              <article>
-                <h3>Practical MSX Machine Code Programming</h3>
-                <p>The intention of this book is to introduce you to Machine Code programming on MSX computers.</p>
-              </article>
-            </a>
-          </li>
-          <li>
-            <a class="article" href="assets/documents/lenguaje_maquina.pdf">
-              <article>
-                <h3>Lenguaje Máquina Para MSX</h3>
-                <p>Introducción y Conceptos avanzados.</p>
-              </article>
-            </a>
-          </li>          <li>
-            <a class="article" href="https://www.amazon.com/dp/1527298094?linkCode=ogi&th=1&psc=1&tag=sofferscom1-20">
-              <article>
-                <h3>Modern MSX BASIC Game Development</h3>
-                <p>Desarrolla juegos retro en MSX Basic usando herramientas modernas.</p>
-              </article>
-            </a>
-          </li>
-          <li>
-            <a class="article" href="https://www.amazon.com/FUSION-C-MSX-Library-complete-journey/dp/1730828612">
-              <article>
-                <h3>FUSION-C: MSX C Library complete journey</h3>
-                <p>With FUSION-C you will be able to code games or any other softwares for the MSX computers, in C. The library is compatible for MSX1, MSX2, MSX2+, and MSX Turbo-R and can take advantage of the hardware of each model.</p>
-              </article>
-            </a>
-          </li>        
-      </ul>
-    </div>
-  </div>
 </div>
+
+<div class="section">
+  <div class="section-header">
+   <h2>Libros sobre el MSX</h2>
+  </div>
+  <div>
+    <div class="row">
+      <div class="box">
+        <ul>
+            <li>
+              <a class="article" href="https://books.google.com/books/about/MSX_Made_Simple.html?id=Qo-GDAAAQBAJ">
+                <article>
+                  <h3>MSX Made Simple</h3>
+                  <p>Aprende MSX Basic y breve introducción al codigo maquina.</p>
+                </article>
+              </a>
+            </li>
+            <li>
+              <a class="article" href="assets/documents//practical_msx_machine_code_programming_steve_webb.pdf">
+                <article>
+                  <h3>Practical MSX Machine Code Programming</h3>
+                  <p>The intention of this book is to introduce you to Machine Code programming on MSX computers.</p>
+                </article>
+              </a>
+            </li>
+            <li>
+              <a class="article" href="assets/documents/lenguaje_maquina.pdf">
+                <article>
+                  <h3>Lenguaje Máquina Para MSX</h3>
+                  <p>Introducción y Conceptos avanzados.</p>
+                </article>
+              </a>
+            </li>          <li>
+              <a class="article" href="https://www.amazon.com/dp/1527298094?linkCode=ogi&th=1&psc=1&tag=sofferscom1-20">
+                <article>
+                  <h3>Modern MSX BASIC Game Development</h3>
+                  <p>Desarrolla juegos retro en MSX Basic usando herramientas modernas.</p>
+                </article>
+              </a>
+            </li>
+            <li>
+              <a class="article" href="https://www.amazon.com/FUSION-C-MSX-Library-complete-journey/dp/1730828612">
+                <article>
+                  <h3>FUSION-C: MSX C Library complete journey</h3>
+                  <p>With FUSION-C you will be able to code games or any other softwares for the MSX computers, in C. The library is compatible for MSX1, MSX2, MSX2+, and MSX Turbo-R and can take advantage of the hardware of each model.</p>
+                </article>
+              </a>
+            </li>        
+        </ul>
+    </div>  
+  </div>
+</div>  
 
 <div class="section">
   <div class="section-header">
