@@ -1,6 +1,37 @@
 ---
 ---
 <div class="section">
+  <div class="row">
+    <div class="box-links">
+      <div class="msxvr-link">
+        <div class="msxvr-link-logo">
+          <figure class="image is-64x64">
+            <img src="assets/img/GitHub-Mark-64px.png">
+          </figure>
+        </div>
+        <div class="msxvr-link-description">
+          <a href="https://github.com/konamiman/msx">Konamiman's MSX software repository</a>
+          <p>This is a compilation of all the MSX software that I have been developing since the mid-90s.</p>
+        </div>
+      </div>
+    </div>
+    <div class="box-links">
+      <div class="msxvr-link">
+        <div class="msxvr-link-logo">
+          <figure class="image is-64x64">
+            <img src="assets/img/GitHub-Mark-64px.png">
+          </figure>
+        </div>
+        <div class="msxvr-link-description">
+          <a href="https://github.com/msxvr">MSXVR Repository</a>
+          <p>A new MSX Computer</p>
+        </div>
+      </div>
+    </div>    
+  </div>
+</div>
+
+<div class="section">
   <div class="section-header">
    <h2>Recursos MSX</h2>
   </div>
