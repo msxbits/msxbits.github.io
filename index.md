@@ -54,9 +54,16 @@
                 <p>Desarrollar videojuegos para el MSX a través de la compilación cruzada de proyectos mediante la librería FUSION-C.</p>
               </article>
             </a>
-          </li>          
+          </li>         
           <li>
             <a class="article" href="https://konamiman.github.io/MSX2-Technical-Handbook">
+              <article>
+                <h3>Z80 Assembly programming for the MSX and MSX2</h3>
+                <p>Full reference of the MSX2 system as published by ASCII Corporation in 1987.</p>
+              </article>
+            </a>
+          </li>          <li>
+            <a class="article" href="https://www.chibiakumas.com/z80/msx.php">
               <article>
                 <h3>Z80 Assembly programming for the MSX and MSX2</h3>
                 <p>Learn Assembly Programming with ChibiAkumas.</p>
