@@ -40,7 +40,7 @@
         <h1>Tutoriales</h1>
         <ul>
           <li>
-            <a class="article" href="https://riunet.upv.es/bitstream/handle/10251/145214/Memoria.pdf?sequence=2&isAllowed=y">
+            <a class="article" href="http://www.z80st.es/cursos/bitvision-assembler">
               <article>
                 <h3>Curso de Assembler rápido</h3>
                 <p>Videotutoriales para iniciarse en la programación en ensamblador por BitVision.</p>
@@ -58,12 +58,19 @@
           <li>
             <a class="article" href="https://konamiman.github.io/MSX2-Technical-Handbook">
               <article>
+                <h3>Tutorial práctico de desarrollo de videojuegos para ordenadores MSX</h3>
+                <p>Este trabajo pretende ilustrar cómo desarrollar videojuegos en ordenadores actuales para el estándar MSX de ordenadores domésticos de 8 bits haciendo uso de herramientas de software abierto</p>
+              </article>
+            </a>
+          </li>
+          <li>
+            <a class="article" href="https://riunet.upv.es/bitstream/handle/10251/145214/Memoria.pdf?sequence=2&isAllowed=y">
+              <article>
                 <h3>Z80 Assembly programming for the MSX and MSX2</h3>
                 <p>Learn Assembly Programming with ChibiAkumas.</p>
               </article>
             </a>
-          </li>
-        </ul>
+          </li>        </ul>
       </div>        
     <div class="box">
       <h1>Documentación técnica</h1>
