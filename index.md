@@ -74,21 +74,22 @@
             </a>
           </li> 
           <li>
+            <a class="article" href="http://www.z80st.es/cursos/msx-inside">
+              <article>
+                <h3>MSX Inside</h3>
+                <p>MSX Inside: Videotutoriales sobre MSX</p>
+              </article>
+            </a>
+          </li>             
+          <li>
             <a class="article" href="https://riunet.upv.es/bitstream/handle/10251/145214/Memoria.pdf?sequence=2&isAllowed=y">
               <article>
                 <h3>Tutorial de desarrollo de videojuegos</h3>
                 <p>Desarrollar videojuegos para el MSX a través de la compilación cruzada de proyectos mediante la librería FUSION-C.</p>
               </article>
             </a>
-          </li>         
+          </li>               
           <li>
-            <a class="article" href="https://konamiman.github.io/MSX2-Technical-Handbook">
-              <article>
-                <h3>Z80 Assembly programming for the MSX and MSX2</h3>
-                <p>Full reference of the MSX2 system as published by ASCII Corporation in 1987.</p>
-              </article>
-            </a>
-          </li>          <li>
             <a class="article" href="https://www.chibiakumas.com/z80/msx.php">
               <article>
                 <h3>Z80 Assembly programming for the MSX and MSX2</h3>
@@ -151,6 +152,14 @@
                 <article>
                   <h3>8bitworkshop</h3>
                   <p>Editor the codigo para maquinas de 8 bits en tu navegador</p>
+                </article>
+              </a>
+            </li>
+            <li>
+              <a class="article" href="https://www.usebox.net/jjm/ubox-msx-lib/">
+                <article>
+                  <h3>ubox MSX lib</h3>
+                  <p>This is a set of libraries and tools to make MSX games using the C programming language.</p>
                 </article>
               </a>
             </li>
