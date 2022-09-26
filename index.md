@@ -59,7 +59,7 @@
 
 <div class="section">
   <div class="section-header">  
-   <h2>Recursos MSX</h2>
+   <h2>Programación MSX</h2>
   </div>
   <div class="row">
     <div class="box">
@@ -144,8 +144,8 @@
           </li>
       </ul>
     </div>
-      <div class="box">
-        <h1>Utilidades MSX</h1>
+    <div class="box">
+        <h1>Herramientas de programación</h1>
         <ul>
             <li>
               <a class="article" href="https://8bitworkshop.com/v3.9.0/?platform=msx&file=helloworld.asm#">
@@ -160,30 +160,6 @@
                 <article>
                   <h3>ubox MSX lib</h3>
                   <p>This is a set of libraries and tools to make MSX games using the C programming language.</p>
-                </article>
-              </a>
-            </li>
-            <li>
-              <a class="article" href="https://books.google.com/books/about/MSX_Made_Simple.html?id=Qo-GDAAAQBAJ">
-                <article>
-                  <h3>MSX-HUB</h3>
-                  <p>Sistema de gestión de paquetes para el MSX. Descarga y actualiza tu software de MSX directamente desde Internet</p>
-                </article>
-              </a>
-            </li>
-            <li>
-              <a class="article" href="https://www.louthrax.net/mgr/">
-                <article>
-                  <h3>Sofarun</h3>
-                  <p>Herramienta para ejecutar imágenes en formato .DSK, .CAS y .ROM.</p>
-                </article>
-              </a>
-            </li>
-            <li>
-              <a class="article" href="https://www.msx.org/wiki/MultiMente">
-                <article>
-                  <h3>MultiMente</h3>
-                  <p>Administrador de archivos para el MSX-DOS 2, basado en el administrador de archivos para MS-DOS FILMTN.</p>
                 </article>
               </a>
             </li>
@@ -349,5 +325,35 @@
             </a>
           </li>
       </ul>
+    </div>
+    <div class="box">
+        <h1>Utilidades</h1>
+        <ul>
+            <li>
+              <a class="article" href="https://books.google.com/books/about/MSX_Made_Simple.html?id=Qo-GDAAAQBAJ">
+                <article>
+                  <h3>MSX-HUB</h3>
+                  <p>Sistema de gestión de paquetes para el MSX. Descarga y actualiza tu software de MSX directamente desde Internet</p>
+                </article>
+              </a>
+            </li>
+            <li>
+              <a class="article" href="https://www.louthrax.net/mgr/">
+                <article>
+                  <h3>Sofarun</h3>
+                  <p>Herramienta para ejecutar imágenes en formato .DSK, .CAS y .ROM.</p>
+                </article>
+              </a>
+            </li>
+            <li>
+              <a class="article" href="https://www.msx.org/wiki/MultiMente">
+                <article>
+                  <h3>MultiMente</h3>
+                  <p>Administrador de archivos para el MSX-DOS 2, basado en el administrador de archivos para MS-DOS FILMTN.</p>
+                </article>
+              </a>
+            </li>
+        </ul>
+    </div>
   </div>
 </div>
