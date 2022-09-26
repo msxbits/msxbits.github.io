@@ -159,6 +159,22 @@
               </a>
             </li>
             <li>
+              <a class="article" href="https://8bitworkshop.com/v3.9.0/?file=helloworld.asm&platform=msx">
+                <article>
+                  <h3>8bitworkshop</h3>
+                  <p>Editor the codigo para maquinas de 8 bits en tu navegador</p>
+                </article>
+              </a>
+            </li>
+            <li>
+              <a class="article" href="https://github.com/ericb59/Fusion-C-v1.2">
+                <article>
+                  <h3>Fusion-C</h3>
+                  <p>Fusion-C 1.2  is a C library you can freely use to program software and games for MSX computers under MSX-DOS in C language.</p>
+                </article>
+              </a>
+            </li>
+            <li>
               <a class="article" href="https://github.com/ericb59/Fusion-C-v1.2">
                 <article>
                   <h3>Fusion-C</h3>
