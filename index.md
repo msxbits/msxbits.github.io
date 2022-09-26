@@ -23,19 +23,6 @@
           </figure>
         </div>
         <div class="msxvr-link-description">
-          <a href="https://github.com/Fubukimaru/asMSX">asMSX</a>
-          <p>asMSX is a Z80 cross-assembler for MSX</p>
-        </div>
-      </div>
-    </div>
-    <div class="box-links">
-      <div class="msxvr-link">
-        <div class="msxvr-link-logo">
-          <figure class="image is-64x64">
-            <img src="assets/img/GitHub-Mark-64px.png">
-          </figure>
-        </div>
-        <div class="msxvr-link-description">
           <a href="https://github.com/santiontanon">Santi Ontañón Repository</a>
           <p>Triton, XSpelunker and Westen MSX games </p>
         </div>
@@ -148,10 +135,26 @@
         <h1>Herramientas de programación</h1>
         <ul>
             <li>
-              <a class="article" href="https://8bitworkshop.com/v3.9.0/?platform=msx&file=helloworld.asm#">
+              <a class="article" href="https://github.com/z00m128/sjasmplus">
                 <article>
-                  <h3>8bitworkshop</h3>
-                  <p>Editor the codigo para maquinas de 8 bits en tu navegador</p>
+                  <h3>sjasmplus</h3>
+                  <p>Command-line cross-compiler of assembly language for Z80 CPU</p>
+                </article>
+              </a>
+            </li>
+            <li>
+              <a class="article" href="https://github.com/Fubukimaru/asMSX">
+                <article>
+                  <h3>asMSX</h3>
+                  <p>asMSX is a Z80 cross-assembler for MSX</p>
+                </article>
+              </a>
+            </li>
+            <li>
+              <a class="article" href="http://www.grauw.nl/projects/glass/">
+                <article>
+                  <h3>Glass Z80 Assembler</h3>
+                  <p>Glass is a cross-assembler for the Z80 processor written in Java 8. Its core principles are to be open source, cross-platform, and to provide a standard Z80 syntax infused with modern language features.</p>
                 </article>
               </a>
             </li>
