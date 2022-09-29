@@ -75,7 +75,15 @@
                 <p>Desarrollar videojuegos para el MSX a través de la compilación cruzada de proyectos mediante la librería FUSION-C.</p>
               </article>
             </a>
-          </li>               
+          </li> 
+            <li>
+              <a class="article" href="http://map.grauw.nl/articles/">
+                <article>
+                  <h3>MSX Assembly Page</h3>
+                  <p>The goal of the MAP is to be the ultimate source of information for the MSX programmer or programmer-to-be. The main target is assembly language, because that’s what the maintainers’ preferred programming language is, but most information will be useful to users of other languages as well</p>
+                </article>
+              </a>
+            </li>                        
           <li>
             <a class="article" href="https://www.chibiakumas.com/z80/msx.php">
               <article>
@@ -163,14 +171,6 @@
                 <article>
                   <h3>8bitworkshop</h3>
                   <p>Editor the codigo para maquinas de 8 bits en tu navegador</p>
-                </article>
-              </a>
-            </li>
-            <li>
-              <a class="article" href="https://github.com/ericb59/Fusion-C-v1.2">
-                <article>
-                  <h3>Fusion-C</h3>
-                  <p>Fusion-C 1.2  is a C library you can freely use to program software and games for MSX computers under MSX-DOS in C language.</p>
                 </article>
               </a>
             </li>
