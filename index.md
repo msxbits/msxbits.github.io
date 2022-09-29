@@ -80,7 +80,7 @@
               <a class="article" href="http://map.grauw.nl/articles/">
                 <article>
                   <h3>MSX Assembly Page</h3>
-                  <p>The goal of the MAP is to be the ultimate source of information for the MSX programmer or programmer-to-be. The main target is assembly language, because that’s what the maintainers’ preferred programming language is, but most information will be useful to users of other languages as well</p>
+                  <p>The goal of the MAP is to be the ultimate source of information for the MSX programmer or programmer-to-be.</p>
                 </article>
               </a>
             </li>                        
