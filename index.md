@@ -10,6 +10,19 @@
           </figure>
         </div>
         <div class="msxvr-link-description">
+          <a href="https://github.com/msxbits">MSX Bits Software</a>
+          <p>MSX Bits GitHub repository.</p>
+        </div>
+      </div>
+    </div>   
+    <div class="box-links">
+      <div class="msxvr-link">
+        <div class="msxvr-link-logo">
+          <figure class="image is-64x64">
+            <img src="assets/img/GitHub-Mark-64px.png">
+          </figure>
+        </div>
+        <div class="msxvr-link-description">
           <a href="https://github.com/konamiman/msx">Konamiman's Software</a>
           <p>This is a compilation of MSX software developed since the mid-90s.</p>
         </div>
