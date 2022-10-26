@@ -98,6 +98,13 @@
               </a>
             </li>                        
           <li>
+            <a class="article" href="https://gilbertfrancois.github.io/">
+              <article>
+                <h3>Journey into MSX Z80 Assembly programming</h3>
+                <p>Document the journey into programming with assembly for the MSX1</p>
+              </article>
+            </a>
+          </li>          <li>
             <a class="article" href="https://www.chibiakumas.com/z80/msx.php">
               <article>
                 <h3>Z80 Assembly programming for the MSX and MSX2</h3>
