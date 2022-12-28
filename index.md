@@ -104,7 +104,8 @@
                 <p>Document the journey into programming with assembly for the MSX1</p>
               </article>
             </a>
-          </li>          <li>
+          </li>          
+          <li>
             <a class="article" href="https://www.chibiakumas.com/z80/msx.php">
               <article>
                 <h3>Z80 Assembly programming for the MSX and MSX2</h3>
@@ -372,6 +373,19 @@
             </a>
           </li>
       </ul>
+    </div>
+    <div class="box">
+        <h1>Tutoriales</h1>
+        <ul>
+          <li>
+            <a class="article" href="https://www.youtube.com/watch?v=ZGTFjFsdumw&t=2562s">
+              <article>
+                <h3>Cómo programar un emulador</h3>
+                <p>Secretos Técnicos de Retro Virtual Machine</p>
+              </article>
+            </a>
+          </li>
+        </ul>
     </div>
     <div class="box">
         <h1>Utilidades</h1>
